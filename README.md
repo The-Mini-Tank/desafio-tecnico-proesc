@@ -1,6 +1,6 @@
 # Change Log
 
-## Resolução 3
+## Desafio 3
 
 Q1 - Correção nas rotas dentro do view 'Welcome'. \
 Q2 - Correção nos parâmetros de action em 'create.blade' de categorias. \
